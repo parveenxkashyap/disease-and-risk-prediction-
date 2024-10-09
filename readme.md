@@ -11,7 +11,7 @@ A machine-learning based disease prediction project that trains multiple classif
   - Final prediction using majority vote
 
 ## Project structure
-- `Intelligent_Disease_and_Risk_Prediction.ipynb` — Original notebook (Colab-style).
+- `Intelligent_Disease_and_Risk_Prediction.ipynb` — notebook .
 - `src/train.py` — Train models from CSV and save artifacts.
 - `src/predict.py` — CLI prediction using saved artifacts.
 - `data/` — Put the dataset here (ignored by git).
